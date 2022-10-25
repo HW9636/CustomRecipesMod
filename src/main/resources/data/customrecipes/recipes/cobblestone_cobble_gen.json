@@ -1,0 +1,14 @@
+{
+  "type": "customrecipes:cobble_gen",
+  "block1": {
+    "block": "minecraft:lava"
+  },
+
+  "block2":{
+    "block": "minecraft:water"
+  },
+
+  "output": {
+    "block": "minecraft:cobblestone"
+  }
+}

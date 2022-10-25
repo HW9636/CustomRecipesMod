@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.hw9636.customrecipes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LiquidBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
