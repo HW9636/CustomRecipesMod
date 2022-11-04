@@ -1,0 +1,18 @@
+{
+  "type": "customrecipes:basalt_gen",
+  "fluid": {
+    "fluid": "minecraft:flowing_lava"
+  },
+
+  "block":{
+    "block": "minecraft:blue_ice"
+  },
+
+  "under": {
+    "block": "minecraft:soul_soil"
+  },
+
+  "output": {
+    "block": "minecraft:basalt"
+  }
+}

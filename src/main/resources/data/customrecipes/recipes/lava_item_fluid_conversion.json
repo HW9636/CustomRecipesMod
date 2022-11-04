@@ -1,0 +1,18 @@
+{
+  "type": "customrecipes:item_fluid_conversion",
+
+  "item": {
+    "item": "minecraft:magma_block"
+  },
+
+  "fluid": {
+    "fluid": "minecraft:water"
+  },
+
+  "outputs": {
+    "fluids": [
+      "minecraft:lava",
+      "minecraft:flowing_lava"
+    ]
+  }
+}

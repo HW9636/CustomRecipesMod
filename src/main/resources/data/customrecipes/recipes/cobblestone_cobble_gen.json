@@ -1,11 +1,11 @@
 {
   "type": "customrecipes:cobble_gen",
-  "block1": {
-    "block": "minecraft:lava"
+  "fluid1": {
+    "fluid": "minecraft:flowing_lava"
   },
 
-  "block2":{
-    "block": "minecraft:water"
+  "fluid2":{
+    "fluid": "minecraft:flowing_water"
   },
 
   "output": {

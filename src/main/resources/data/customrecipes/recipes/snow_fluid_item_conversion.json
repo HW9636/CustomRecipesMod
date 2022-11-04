@@ -1,0 +1,18 @@
+{
+  "type": "customrecipes:fluid_item_conversion",
+
+  "item": {
+    "item": "minecraft:ice"
+  },
+
+  "fluid": {
+    "fluid": "minecraft:water"
+
+  },
+
+  "outputs": {
+    "item": "minecraft:snow_block"
+  },
+
+  "consumes_fluid": true
+}

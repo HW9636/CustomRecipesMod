@@ -1,0 +1,14 @@
+{
+  "type": "customrecipes:source_conversion",
+  "source": {
+    "fluid": "minecraft:lava"
+  },
+
+  "converter":{
+    "fluid": "minecraft:water"
+  },
+
+  "output": {
+    "block": "minecraft:obsidian"
+  }
+}
